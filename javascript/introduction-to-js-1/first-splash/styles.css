@@ -47,19 +47,21 @@ p {
   top: 60%;
   left: 50%;
   transform: translate(-50%, -50%);
-
+  
   font-family: "Poppins";
   font-weight: 600;
   letter-spacing: 1px;
   text-transform: uppercase;
-
+  
   width: 500px;
   height: 50px;
   background: #38c24e;
   color: #ffffff;
+  cursor: pointer;
 
   border: 1px solid #38c24e;
   border-radius: 50px;
+
 }
 
 .ultimoResultado {
